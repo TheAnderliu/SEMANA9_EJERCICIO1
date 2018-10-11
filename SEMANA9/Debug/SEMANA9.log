@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+MyForm.cpp(5): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm6.cpp
+  Generating Code...
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  SEMANA9.vcxproj -> C:\Users\alumnos\Desktop\SEMANA9\Debug\SEMANA9.exe
+  SEMANA9.vcxproj -> C:\Users\alumnos\Desktop\SEMANA9\Debug\SEMANA9.pdb (Partial PDB)
